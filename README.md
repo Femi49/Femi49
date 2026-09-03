@@ -29,7 +29,7 @@ I'm particularly interested in the intersection of:
 
 | Skill                                 | Associated Projects                                                                           |
 | ------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Cybersecurity GRC**                 | [Cybersecurity GRC Portfolio](https://github.com/yourusername/cybersecurity-grc-portfolio)    |
+| **Revealer**                          | [Revealer to expose Malware](https://github.com/Femi49/revealer.git)                          |
 | **Risk Assessment & Risk Management** | [Risk Register & Assessment Project](https://github.com/yourusername/risk-management-project) |
 | **ISO 27001:2022**                    | [ISO 27001 Implementation Project](https://github.com/yourusername/iso27001-project)          |
 | **NIST CSF 2.0**                      | [NIST CSF Implementation](https://github.com/yourusername/nist-csf-project)                   |
