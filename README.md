@@ -32,7 +32,7 @@ I'm particularly interested in the intersection of:
 | **Revealer**                          | [Revealer to expose Malware](https://github.com/Femi49/revealer.git)                          |
 | **Risk Assessment & Risk Management** | [Risk Register & Assessment Project](https://github.com/yourusername/risk-management-project) |
 | **ISO 27001:2022**                    | [ISO 27001 Implementation Project](https://github.com/yourusername/iso27001-project)          |
-| **NIST CSF 2.0**                      | [NIST CSF Implementation](https://github.com/yourusername/nist-csf-project)                   |
+| **PhishGuard Simulation**             | [PhishGuard: Phishing Simulation & Security Awareness Assessment](https://github.com/Femi49/PhishGuard-Phishing-Simulation-Security-Awareness-Assessment.git)                   |
 | **Asset Management**                  | [Cybersecurity Asset Register](https://github.com/yourusername/asset-management-project)      |
 | **Vulnerability Assessment**          | [Vulnerability Assessment Lab](https://github.com/yourusername/vulnerability-assessment)      |
 | **Network Security**                  | [Network Security Lab](https://github.com/yourusername/network-security-lab)                  |
