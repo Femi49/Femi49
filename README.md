@@ -177,15 +177,15 @@ A security operations lab involving the deployment of **Wazuh**, agents, log col
 
 ---
 
-## ☁️ AWS Cloud Security Lab
+## ☁️ Cloud-Honeypot Deployment
 
-A cloud security project exploring secure deployment of applications and security infrastructure within **AWS EC2**, including network controls, security groups, segmentation, and defensive security tooling.
+This project involved deploying T-Pot, an open-source multi-honeypot platform, on an AWS EC2 instance to create a controlled environment for observing malicious activity, collecting attack telemetry, and analyzing security events..
 
 **Technologies:**
 
-`AWS` `EC2` `Security Groups` `Linux` `Docker`
+`AWS` `EC2` `Security Groups` `Linux` `Docker` `T-pot`
 
-➡️ **[View Project](https://github.com/yourusername/aws-security-lab)**
+➡️ **[View Project](https://github.com/Femi49/Cloud-Honeypot-Deployment.git)**
 
 ---
 
