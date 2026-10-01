@@ -35,7 +35,7 @@ I'm particularly interested in the intersection of:
 | **PhishGuard Simulation**             | [PhishGuard: Phishing Simulation & Security Awareness Assessment](https://github.com/Femi49/PhishGuard-Phishing-Simulation-Security-Awareness-Assessment.git)                   |
 | **Asset Management**                  | [Cybersecurity Asset Register](https://github.com/yourusername/asset-management-project)      |
 | **Vulnerability Assessment**          | [Vulnerability Assessment Lab](https://github.com/yourusername/vulnerability-assessment)      |
-| **Network Security**                  | [Network Security Lab](https://github.com/yourusername/network-security-lab)                  |
+| **Network Trafic Analyser**           | [Network Traffic Analyser Lab](https://github.com/Femi49/Network-Traffic-Analyser-Wireshark.git)      |
 | **Security Operations (SOC)**         | [SOC Monitoring Lab](https://github.com/yourusername/soc-lab)                                 |
 | **Intrusion Detection / Prevention**  | [Suricata IDS/IPS Project](https://github.com/yourusername/suricata-project)                  |
 | **Web Application Security**          | [Altoro Mutual](https://github.com/Femi49/altoro-mutual-webtest.git)                          |
