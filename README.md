@@ -43,7 +43,7 @@ I'm particularly interested in the intersection of:
 | **Cloud Honeypot Deployment**         | [AWS Security Lab](https://github.com/Femi49/Cloud-Honeypot-Deployment.git)                   |
 | **Security Awareness**                | [Phishing Awareness Project](https://github.com/Femi49/Phishing-Awareness-Project.git)        |
 | **Data Protection & Privacy**         | [NDPA / DPIA / RoPA Project](https://github.com/yourusername/data-protection-project)         |
-| **Cybersecurity Policy & Compliance** | [Security Policies Portfolio](https://github.com/yourusername/security-policies)              |
+| **Cybersecurity Policy & Compliance** | [Cuppy Pay Policies Portfolio](https://github.com/Femi49/Cuppy_pay_policy.git)                |
 | **Linux Security**                    | [Linux Security Lab](https://github.com/yourusername/linux-security-lab)                      |
 | **Vulnerability Scanning**            | [Vulnerability Scanning Lab](https://github.com/yourusername/vulnerability-scanning)          |
 
