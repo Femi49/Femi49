@@ -37,7 +37,7 @@ I'm particularly interested in the intersection of:
 | **Vulnerability Assessment**          | [Vulnerability Assessment Lab](https://github.com/yourusername/vulnerability-assessment)      |
 | **Network Trafic Analyser**           | [Network Traffic Analyser Lab](https://github.com/Femi49/Network-Traffic-Analyser-Wireshark.git)      |
 | **Security Operations (SOC)**         | [SOC Monitoring Lab](https://github.com/yourusername/soc-lab)                                 |
-| **Intrusion Detection / Prevention**  | [Suricata IDS/IPS Project](https://github.com/yourusername/suricata-project)                  |
+| **Intrusion Detection / Prevention**  | [Suricata IDS/IPS Project](https://github.com/Femi49/Suricata-IDS-Project.git)                |
 | **Web Application Security**          | [Altoro Mutual](https://github.com/Femi49/altoro-mutual-webtest.git)                          |
 | **Web Application Firewall**          | [SafeLine WAF Project](https://github.com/yourusername/safeline-waf-project)                  |
 | **Cloud Honeypot Deployment**         | [AWS Security Lab](https://github.com/Femi49/Cloud-Honeypot-Deployment.git)                   |
@@ -149,7 +149,7 @@ A hands-on network security project focused on deploying **Suricata as an IDS/IP
 
 `Suricata` `Kali Linux` `Python` `Network Security` `IDS/IPS`
 
-➡️ **[View Project](https://github.com/yourusername/suricata-project)**
+➡️ **[View Project](https://github.com/Femi49/Suricata-IDS-Project.git)**
 
 ---
 
